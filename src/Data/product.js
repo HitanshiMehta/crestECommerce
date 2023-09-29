@@ -2,7 +2,7 @@ export const crestProduct = [
   {
     id: 1,
     title: "iPhone 9",
-    isAddedInCompare: true,
+    isAddedInCompare: false,
     description: "An apple mobile which is nothing like apple",
     price: 549,
     discountPercentage: 12.96,
@@ -21,7 +21,7 @@ export const crestProduct = [
   {
     id: 2,
     title: "iPhone X",
-    isAddedInCompare: true,
+    isAddedInCompare: false,
     description:
       "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
     price: 899,
@@ -40,7 +40,7 @@ export const crestProduct = [
   {
     id: 3,
     title: "Samsung Universe 9",
-    isAddedInCompare: true,
+    isAddedInCompare: false,
     description:
       "Samsung's new variant which goes beyond Galaxy to the Universe",
     price: 1249,
